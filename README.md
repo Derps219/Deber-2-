@@ -22,7 +22,7 @@ Objetivos Específicos
 
 Marco Teórico
 
-![image](https://user-images.githubusercontent.com/84789986/170464040-22721cd1-a7bf-4482-a4db-167039293000.png)
+![image](https://user-images.githubusercontent.com/84789986/170469371-595b156d-9e12-4a97-afe5-97350a5aef81.png)
 
 ![image](https://user-images.githubusercontent.com/84789986/170464142-368f6ba3-bc44-4657-89bd-7c27bf8669c2.png)
 
@@ -227,3 +227,7 @@ Objetivos específicos
 •	Estudiar los fenómenos producidos por cargas ele3ctricas en reposo y del concepto de campo eléctrico 
 
 •	Estudiar los conceptos de trabajo y de energía electroestática para enunciar el concepto de potencial eléctrico.
+
+Marco Teorico
+
+
