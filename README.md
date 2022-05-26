@@ -30,13 +30,14 @@ Marco Teórico
 
 ![image](https://user-images.githubusercontent.com/84789986/170469463-a8a828bc-1edc-43c5-853e-e2abf2b9f4d5.png)
 
-![image](https://user-images.githubusercontent.com/84789986/170464788-367f11b4-b4fd-48b1-9c7a-e8d3f8a1681b.png)
+
 
 Fórmulas para calcular la Corriente, Voltaje y Resistencia  
 
-![image](https://user-images.githubusercontent.com/84789986/170465702-5ce65b52-0065-4080-addd-9e2f673e33ca.png)
 
-![image](https://user-images.githubusercontent.com/84789986/170466217-04a05d08-6695-4510-aefa-b18d2d4f3bc2.png)
+![image](https://user-images.githubusercontent.com/84789986/170469639-55dbdc49-0356-4af9-91fd-65ab74bd15f7.png)
+
+![image](https://user-images.githubusercontent.com/84789986/170469758-4091d02f-f565-40d6-ab8a-a5dd29286f19.png)
 
 
 Explicación y resolución de ejercicios o problemas 
