@@ -1,5 +1,5 @@
 # Deber-2-
-                                                                INFORME CAPITULO 3 
+                                                        INFORME CAPITULO 3 
 
 
 Objetivos Generales 
