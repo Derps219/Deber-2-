@@ -211,3 +211,19 @@ Mora, C., Sánchez-Sánchez, R., & Velázquez-Arteaga, L. J. (2015). Enseñando 
 
 Macías García, M. E., Contreras Hinojosa, C., Anaya Zamora, R., García, M. E. M., Hinojosa, C. C., & Zamora, R. A. Ley de Ohm.
 
+
+							INFORME CAPITULO 4
+							
+Objetivos Generales
+
+•	Determinar la relación del tiempo, fuerza, distancia y velocidad con la potencia 
+
+•	Conocer que es la energía, distinguir las distintas formas de energía, comprender las transformaciones energía 
+
+•	Definir y estudiar las fórmulas de trabajo, energía y potencia, aplicar, los conceptos nos ayudaran a resolver y analizar problemas.
+
+Objetivos específicos
+
+•	Estudiar los fenómenos producidos por cargas ele3ctricas en reposo y del concepto de campo eléctrico 
+
+•	Estudiar los conceptos de trabajo y de energía electroestática para enunciar el concepto de potencial eléctrico.
