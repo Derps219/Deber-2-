@@ -38,32 +38,62 @@ Fórmulas para calcular la Corriente, Voltaje y Resistencia
 
 ![image](https://user-images.githubusercontent.com/84789986/170466217-04a05d08-6695-4510-aefa-b18d2d4f3bc2.png)
 
+
 Explicación y resolución de ejercicios o problemas 
 
+
 	Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
+	
 I=V/R
+
 	Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+	
   
 R=V/I
 
- 6. En Cierto Circuito. I = 5mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en l mismo circuito.
+
+ 6. En Cierto Circuito. I = 5mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en l mismo circuito. 
+
+
 	V=1.5 V
+	
 	V=2 V
+	
 	V=3 V
+	
 	V=4 V
+	
 	V=10 V
+	
+	
 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con un código de colores gris, rojo, rojo, oro.
+
+
 La primera banda es Gris = 8, la segunda es Rojo = 2, la tercera es Rojo = 2ceros, y la cuarta es Oro = tolerancia del 5%
+
+
 8200Ω±5%
+
+
 8,2K Ω±5%
+
+
 V	I
+
 5V	6.09x^(10^(-4) ) A
+
 10V	1.21x^(10^(-3) ) A
+
 15V	1.82x^(10^(-3) ) A
+
 20V	2.43x^(10^(-3) ) A
+
 25V	3.04x^(10^(-3) ) A
 
+
 I=v/R=5v/8200=6.09x10=-4A
+
+
 10. ¿Cuál de los circuitos mostrados tiene más corriente? ¿Cuál tiene menos corriente?
 	 
 	 
