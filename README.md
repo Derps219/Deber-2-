@@ -254,6 +254,146 @@ Marco Teorico
 
 ![image](https://user-images.githubusercontent.com/84789986/170469898-ec71fc3c-6ace-4bd1-a357-a03be7691eed.png)
 
+![image](https://user-images.githubusercontent.com/84789986/170471008-a8922f22-8986-404c-a35a-2ce1e29081f9.png)
+
 ![image](https://user-images.githubusercontent.com/84789986/170469947-7a1d8be0-bc31-42af-b22e-cce64ac8d1fd.png)
 
+Cuando circula corriente a través de una resistencia, las colisiones de los electrones producen calor a consecuencia de la conversión de la energía eléctrica, la cantidad de potencia disipada depende de la cantidad de resistencia y de corriente, lo cual se expresa:
 
+![image](https://user-images.githubusercontent.com/84789986/170471123-ec689dc8-b331-42ee-8d76-67a919061df7.png)
+
+
+Donde P esta en watts cuando V esta en volts e I esta en amperes. Sustituyendo I por VIR (Ley de Ohm) se obtiene otra expresión equivalente. 
+
+![image](https://user-images.githubusercontent.com/84789986/170471174-04066449-de78-4ccd-8ea1-8cd138430b39.png)
+
+
+La relación entre potencia y corriente, voltaje, y resistencia expresada en las fórmulas precedentes se conoce como ley de Watt. En cada caso, I debe estar en amperes, V en volts y R en ohms. Para calcular la potencia en una resistencia, se puede utilizar cualquiera de las tres fórmuLas de potencia, según la información que se tenga.
+
+Potencia nominal en resistores
+
+Es la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo. La potencia nominal no está relacionada con el valor óhmico (resistencia), sino más bien está determinada principalmente por la composición física, el tamaño y la forma del resistor.
+
+![image](https://user-images.githubusercontent.com/84789986/170471304-34798c85-01a2-4096-965b-824c7d627889.png)
+
+Explicación y resolución de ejercicios o problemas 
+
+Demuestren que hay 3.6×10^6 joules en un Kilowatt-hora
+
+1kW/ h=1000J/S+1h/3600s=3.6x10^6 J
+
+	¿Cuántos watts se utilizan cuando se consume 7500 J de energía en 5 h?
+	
+P=J/t=1000J/5h+1h/3600s=0,4166 watts
+
+	Convierta las siguientes cantidades en kilowatts:
+	
+	1000 W
+	
+R= 1kW
+
+	3750 W
+	
+R= 3.75kW
+
+	160 W
+	
+R=  0.16kW
+
+	50.00 W
+	
+R= 50kW
+
+	Convierta las siguientes cantidades en miliwatts:
+	
+	1 W
+	
+R= 1000 mW
+
+	0.4 W
+	
+R= 400 mW
+
+	0.002 W
+	
+R= 2 mW
+
+	0.0125 W
+	
+R= 12.5 mW
+
+	Convierta las siguientes cantidades en watts:
+	
+	15 kW
+	
+R= 15000 W
+
+	0.5 MV
+	
+R= 500000 W
+
+	350 Mv
+	
+R= 0.35 W
+
+	9000 uW
+	
+R= 0.009 W
+
+	Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+R= 0.3 kW * 720 h = 216 kwh
+
+
+	Convierta 5×10^6 watts-minutos en KWh
+	
+
+	¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?
+	
+
+	Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+	
+
+	¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4,7 kΩ?
+	
+
+	Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
+	
+
+	Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+	
+
+	Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+	
+
+Conversión de energía y caída de voltaje en una resistencia
+
+	En cada circuito de la figura, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+	
+	 
+![image](https://user-images.githubusercontent.com/84789986/170471870-4a1163b9-059a-44ac-af64-51eaff39bc5d.png)
+ 
+ 
+![image](https://user-images.githubusercontent.com/84789986/170471906-78eee7bf-084e-493f-885c-99a8d17f2b5d.png)
+
+
+![image](https://user-images.githubusercontent.com/84789986/170471929-9903dd7a-cbb9-4f86-826b-782303adfcd7.png)
+
+
+	Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+	Una batería puede proporcionar un promedio de 1.5 Ade corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+	Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+	Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+Conclusiones:
+
+
+Bibliografia:
+
+Wildi, T. (2007). Máquinas eléctricas y sistemas de potencia.
+
+Ríos, M. A., & García, G. (2010). Modelo de cálculo de demanda de potencia eléctrica en sistemas de tracción tipo metro, tren y tranvía. Revista de ingeniería, (32), 7-15.
+
+Gómez, G. A., Carreño, J. C., & Caviedes, J. Z. (2011). Herramienta de software para el pronóstico de demanda horaria de potencia eléctrica en el sistema eléctrico de Codensa SA ESP. Tecnura, 15(28), 7-22
