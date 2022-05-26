@@ -97,6 +97,15 @@ I=v/R=5v/8200=6.09x10=-4A
 
 ¿Cuál de los circuitos mostrados tiene más corriente? ¿Cuál tiene menos corriente?
 
+![image](https://user-images.githubusercontent.com/84789986/170470277-0cbe2263-5ddd-4d27-863e-90cdaeb769f5.png)
+
+
+![image](https://user-images.githubusercontent.com/84789986/170470300-fb444422-0b8a-4f07-925a-a1558aedd761.png)
+
+
+![image](https://user-images.githubusercontent.com/84789986/170470310-e837964c-ce9c-48fa-8926-f58267e7bf97.png)
+
+
 	 
 Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuantos volts deberá cambiar la fuente? ¿a qué nuevo valor deberá ser ajustada?
 
@@ -140,7 +149,9 @@ Se conecta un resisto de 15 bandas a través de una fuente de 12 V. determine la
  
 El potenciómetro conectado a un reóstato se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través de del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
- 
+
+![image](https://user-images.githubusercontent.com/84789986/170470500-06bddc63-ca1c-465d-886b-794beff4d52c.png)
+
 Calculo de Voltaje 
 
 
@@ -163,6 +174,13 @@ Calcule el voltaje para cada valor de I y R:
 	I=75 uA,R=47 Ω
 	
 Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos para obtener las cantidades de corriente indicadas 
+
+![image](https://user-images.githubusercontent.com/84789986/170470619-0a9785e5-7cce-4c91-9293-ae7f88ec33d8.png)
+
+![image](https://user-images.githubusercontent.com/84789986/170470644-e291199c-1909-46b4-b61f-427f178c8f70.png)
+
+![image](https://user-images.githubusercontent.com/84789986/170470677-a3f42138-2ea2-4cde-8469-785315646d0e.png)
+
 
 
 Cálculo de Resistencias 
@@ -190,6 +208,9 @@ Un circuito atenuador de 120 V es controlado por un reóstato y esta protegido c
 
 En el circuito de luces, identifique el circuito fundido con base a la serie de lecturas de ohmmetro mostrado.
  
+ 
+![image](https://user-images.githubusercontent.com/84789986/170470724-23bea53b-a4c9-4670-b1bd-2c36e7b1fdcd.png)
+
 
 
 
@@ -230,5 +251,9 @@ Objetivos específicos
 •	Estudiar los conceptos de trabajo y de energía electroestática para enunciar el concepto de potencial eléctrico.
 
 Marco Teorico
+
+![image](https://user-images.githubusercontent.com/84789986/170469898-ec71fc3c-6ace-4bd1-a357-a03be7691eed.png)
+
+![image](https://user-images.githubusercontent.com/84789986/170469947-7a1d8be0-bc31-42af-b22e-cce64ac8d1fd.png)
 
 
