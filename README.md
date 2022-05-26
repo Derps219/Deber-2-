@@ -1,5 +1,5 @@
 # Deber-2-
-                                                                              Informe Capitulo 3 
+                                                                          Informe Capitulo 3 
 
 
 Objetivos Generales 
@@ -10,12 +10,14 @@ Objetivos Generales
 
 •	Conocer  la ley de Ohm y su aplicación para calcular medidas en las diferentes unidades.
 
-
-
 Objetivos Específicos
+
 •	Determinar la relación entre tensión, corriente y resistencia en un circuito eléctrico.
+
 •	Calcular la Corriente, Voltaje y Resistencia de un circuito eléctrico
+
 •	Explicar por qué la corriente y la resistencia son inversamente proporciona
+
 •	Describir que sucede con la corriente en un circuito cuando aumenta el voltaje
 
 Marco Teórico
