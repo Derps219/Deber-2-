@@ -28,7 +28,7 @@ Marco Teórico
 
 ![image](https://user-images.githubusercontent.com/84789986/170464167-ca96e940-e36c-49d3-b5d9-6a36391c8065.png)
 
-![image](https://user-images.githubusercontent.com/84789986/170464288-313c793f-a283-401c-8718-6d486a5406ca.png)
+![image](https://user-images.githubusercontent.com/84789986/170469463-a8a828bc-1edc-43c5-853e-e2abf2b9f4d5.png)
 
 ![image](https://user-images.githubusercontent.com/84789986/170464788-367f11b4-b4fd-48b1-9c7a-e8d3f8a1681b.png)
 
