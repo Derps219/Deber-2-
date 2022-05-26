@@ -26,4 +26,9 @@ Marco Teórico
 
 ![image](https://user-images.githubusercontent.com/84789986/170464288-313c793f-a283-401c-8718-6d486a5406ca.png)
 
+![image](https://user-images.githubusercontent.com/84789986/170464788-367f11b4-b4fd-48b1-9c7a-e8d3f8a1681b.png)
+
+Fórmulas para calcular la Corriente, Voltaje y Resistencia  
+
+![image](https://user-images.githubusercontent.com/84789986/170465702-5ce65b52-0065-4080-addd-9e2f673e33ca.png)
 
