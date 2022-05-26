@@ -1,11 +1,13 @@
 # Deber-2-
-Informe Capitulo 3 
+                                                                              Informe Capitulo 3 
 
 
 Objetivos Generales 
 
 •	Conocer los conceptos de voltaje, corriente y resistencia.
+
 •	Analizar e identificar circuitos eléctricos, comprender como varían los fenómenos eléctricos y conocer el funcionamiento de los mismos.
+
 •	Conocer  la ley de Ohm y su aplicación para calcular medidas en las diferentes unidades.
 
 
