@@ -32,3 +32,4 @@ Fórmulas para calcular la Corriente, Voltaje y Resistencia
 
 ![image](https://user-images.githubusercontent.com/84789986/170465702-5ce65b52-0065-4080-addd-9e2f673e33ca.png)
 
+![image](https://user-images.githubusercontent.com/84789986/170466217-04a05d08-6695-4510-aefa-b18d2d4f3bc2.png)
