@@ -389,6 +389,7 @@ Conversión de energía y caída de voltaje en una resistencia
 
 Conclusiones:
 
+En conclusión podemos decir que la Potencia eléctrica es directamente proporcional al trabajo que realiza una corriente al desplazarse por una carga e inversamente proporcional al tiempo que demora en realizarse este trabajo, esta potencia se mida en Watt, Siendo este uno de los muchos temas que visualizamos a la hora de realizar el trabajo, todos tienen co-relacion de forma que la definicion de los terminos debe ser exacto para su comprension.
 
 Bibliografia:
 
